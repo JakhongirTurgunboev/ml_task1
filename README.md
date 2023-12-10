@@ -6,7 +6,7 @@
 
 - [Overview](#overview)
   - [Neural network](#neuralnetwork)
-  - [Working with a database](#workingwithdatabase)
+  - [Working with a database](#workingwithadatabase)
   - [Google API integration](#googleapiintegration)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
