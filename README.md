@@ -5,9 +5,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Neural network](#neural network)
-  - [Working with a database](#working with database)
-  - [Google API integration](#google api integration)
+  - [Neural network](#neuralnetwork)
+  - [Working with a database](#workingwithdatabase)
+  - [Google API integration](#googleapiintegration)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
