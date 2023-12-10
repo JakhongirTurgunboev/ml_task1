@@ -7,7 +7,7 @@
 - [Overview](#overview)
   - [Neural network](#neuralnetwork)
   - [Working with a database](#workingwithadatabase)
-  - [Google API integration](#googleapiintegration)
+  - [Google Maps API integration](#googlemapsapiintegration)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -63,8 +63,8 @@ SQLite is chosen because it is lightweight, since the project is designed to wor
 CRUD databases only, it is proper choice. But when scaling the project,migrating the database to PostgreSQL or another database which can support
 high-load and concurrency is recommended.
 
-### Google API Integration
-This task's folder is '3.Google API Integration'.
+### Google Maps API Integration
+This task's folder is '3.Google Maps API Integration'.
 This project is demonstration of working with Google API.
 In this case, Google service of choice is Google Maps api.
 It requires API Key, that's why API key must be provided before using the project.
@@ -133,10 +133,10 @@ to Cars table. To use the application, write the following command:
   python ormDatabase.py
 ```
 
-### 3. Google API Integration
+### 3. Google Maps API Integration
 To use this application:
 ```bash
-  cd '.\3.Google API Integration\'
+  cd '.\3.Google Maps API integration\'
 ```
 Create new file called '.env', add your Google API key to it like this:
 ```env
