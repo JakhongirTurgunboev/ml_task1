@@ -101,7 +101,6 @@ Run the applications, in case of an issue, refer to "Usage" in documentation
 ## Usage
 ### 1. Neural Network.<br>
 Inside this folder there are two scripts 'main.py' and 'cvScript.py'
-'main.py'.
 You can run the 'main.py' with command:
 ```bash
   cd '.\1.Neural Network\'
